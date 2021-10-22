@@ -22,7 +22,7 @@ class ViewController2: UIViewController {
     @IBOutlet weak var IsssLbl: UILabel!
     
     var vc1: ViewController!
-        
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
